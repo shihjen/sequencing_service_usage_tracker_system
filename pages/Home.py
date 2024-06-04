@@ -3,8 +3,6 @@ import streamlit as st
 from streamlit_lottie import st_lottie
 import json
 import pandas as pd
-import pymupdf
-import fitz 
 import helper
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
