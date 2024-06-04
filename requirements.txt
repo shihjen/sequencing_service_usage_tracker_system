@@ -2,6 +2,7 @@ pandas
 numpy
 plotly
 streamlit
+streamlit-lottie
 streamlit-authenticator
 gspread
 oauth2client
