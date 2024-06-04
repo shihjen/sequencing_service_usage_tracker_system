@@ -1,0 +1,7 @@
+pandas
+numpy
+plotly
+streamlit
+streamlit-authenticator
+gspread
+oauth2client
